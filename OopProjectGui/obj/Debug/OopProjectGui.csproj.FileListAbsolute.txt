@@ -1,0 +1,13 @@
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\bin\Debug\OopProjectGui.exe.config
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\bin\Debug\OopProjectGui.exe
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\bin\Debug\OopProjectGui.pdb
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.csproj.AssemblyReference.cache
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.Form1.resources
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.Properties.Resources.resources
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.csproj.GenerateResource.cache
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.csproj.CoreCompileInputs.cache
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.exe
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.pdb
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\bin\Debug\XYZDatabase.mdf
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\bin\Debug\XYZDatabase_log.ldf
+C:\Users\d4tic\source\repos\OopProjectGui\OopProjectGui\obj\Debug\OopProjectGui.csproj.SuggestedBindingRedirects.cache
